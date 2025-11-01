@@ -1,0 +1,5 @@
+outs:
+- md5: 7241ec742b4eeaaf58b834eb5f323525
+  size: 8972057356
+  hash: md5
+  path: bugs.json
