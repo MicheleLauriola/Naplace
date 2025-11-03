@@ -1,0 +1,5 @@
+outs:
+- md5: 3419aedda256dfc27278736dc38b5dcf
+  size: 213534908
+  hash: md5
+  path: bugs_preprocessed.pkl
